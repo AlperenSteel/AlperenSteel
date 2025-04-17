@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">Computer Engineering student with experience in C, C++, and Java. Currently developing skills in blockchain technologies and modern web development. Passionate about building scalable systems and learning through real-world projects.</h3>
+<h3 align="center">Computer Engineering student with experience in C, C++, and Java. 
+Currently developing skills in blockchain technologies and modern web development. 
+Passionate about building scalable systems and learning through real-world projects.</h3>
 
 - 📫 How to reach me **ysfalperen.celik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuf alperen çelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf alperen çelik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yusuf-alperen-çelik-a39758259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf alperen çelik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
