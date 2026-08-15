@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./contrib-heatmap.svg" width="800" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">Computer Engineering student with experience in C, C++, and Java. 
 Currently developing skills in blockchain technologies and modern web development. 
