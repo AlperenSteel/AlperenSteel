@@ -26,12 +26,12 @@ def escape_xml(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 def render_svg(rows):
-    width = COLS * CHAR_W + 20
-    height = ROWS * CHAR_H + 20
+    width = COLS * CHAR_W + 8
+    height = ROWS * CHAR_H + 8
 
     row_elements = []
     for i, row in enumerate(rows):
-        y = 15 + i * CHAR_H
+        y = 8 + i * CHAR_H
         delay = i * 0.035
         safe_row = escape_xml(row)
         row_elements.append(f'''
