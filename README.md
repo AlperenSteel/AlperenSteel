@@ -1,5 +1,11 @@
 <div align="center">
+
 <img src="./contrib-heatmap.svg" width="800" />
+
+<br><br>
+
+<img src="./info-card.svg" width="560" />
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Alperen</h1>
