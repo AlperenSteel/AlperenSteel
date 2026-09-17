@@ -15,7 +15,7 @@
 
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">Computer Engineering student with experience in C, C++, and Java. 
-Currently developing skills in blockchain technologies and modern web development. 
+Currently developing skills in Blockchain technologies and Backend development. 
 Passionate about building scalable systems and learning through real-world projects.</h3>
 
 - 📫 How to reach me **ysfalperen.celik@gmail.com**
